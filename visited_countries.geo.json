@@ -1,4 +1,4 @@
-geoJsonCountries = {
+{
   "type": "FeatureCollection",
   "features": [
     {
